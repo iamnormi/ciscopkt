@@ -9,7 +9,7 @@ My Cisco Packet Tracer Network stimulation save files.
 ![3](outs/dns4.png)
 ### Output from Ping:
 ![1](outs/ping.png)
-## Dev = 1'43
+## Dev = Normi
 These codes was maintained by [**iamNormi**](https://github.com/iamNormi).
 
 [![iamNormi](https://github.com/iamNormi.png?size=100)](https://github.com/iamNormi) |
